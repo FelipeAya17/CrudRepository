@@ -1,0 +1,1 @@
+CrudRepository Es un crud creado con Java y en el framerwork SpringBoot, donde se aplicaron conocimientos como HttpStatus, HttpReponse, dao y muchos otros temas a nivel profesional; todo esto conectado a una base de datos mysql.
